@@ -126,7 +126,7 @@ certifications:
     details: |
       Speaking: 185/200, Listening: 480/495, Reading: 485/495, Writing: 170/200
       
-  - name: Microsoft Certified: Azure Fundamentals
+  - name: Microsoft Certified Azure Fundamentals
     start: 2023
     end: 2025
     organization: Microsoft
@@ -134,7 +134,7 @@ certifications:
     details: |
       This certification validates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
 
-  - name: Microsoft Certified: Azure Developer Associate
+  - name: Microsoft Certified Azure Developer Associate
     start: 2023
     end: 2025
     organization: Microsoft
