@@ -8,279 +8,212 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Nguyen Viet Hai Vuong
+  tagline: .NET Engineer | SQL Expert | Trading System Engineer
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: nvhvuong@protonmail.com
+  phone: 84 0929287222
+  timezone: Asia/Ho_Chi_Minh # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Vietnam
+  website: https://nvhvuong.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/v%C6%B0%C6%A1ng-nguy%E1%BB%85n-4524791aa/
+  github: https://github.com/nvhvuong
+  telegram: https://t.me/nvhvuong
 
   languages:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+
+    - idiom: Vietnamese
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Algorithmic trading
       link:
 
-
-    - item: Snowboarding
+    - item: Martial arts
       link:
 
-
-    - item: Cooking
+    - item: Cardio training
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Software Engineer with 4+ years of experience in .NET backend development, specializing in high-performance systems, trading infrastructure, and SQL Server. 
+    Currently building a trading system integrating NautilusTrader and .NET 8 with MetaTrader 5 and Binance via a Python client.
+    Passionate about clean architecture, backend optimization, version control, and DevOps automation with Azure and Github Actions.
+    Capable of delivering features for both frontend (React.js, Angular) and backend. Vertical slice design and TDD are my strengths.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor of Software Engineering in Computer Science
+    university: Ho Chi Minh National University of Information and Technology
+    time: 2016 - 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I graduated from Ho Chi Minh National University of Information and Technology with a Bachelor of Software Engineering in Computer Science.
+      I have built a strong foundation in software development, with a focus on backend systems and database management.
+      
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Software Engineer (.NET, React.js, SQL Server, Python)
+    time: 2021 - Present
+    company: BOSCH GLOBAL SOFTWARE TECHNOLOGIES VIETNAM
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Worked on a healthcare system, developing a web application for managing patient data and medical records.
+      Developed high-performance backend systems using C# .NET Core and PostgresSQL.
+      Implemented clean architecture principles and design patterns for maintainable code.
+        - Developed and maintained a high-performance backend system using C# .NET Core and PostgresSQL.
+        - Increased system performance by optimizing database queries and implementing caching strategies.
+        - Collaborated with frontend teams to deliver features using Angular.
+        - Implemented clean architecture principles and design patterns for maintainable code.
+        - Version control using TortoiseSVN.
+        - Unit testing and integration testing to ensure code quality and reliability.
+      
+      Worked on an interface project for internal applications, integrating various systems and services.
+        - Developed a web application using React.js and .NET Core to manage internal applications.
+        - Implemented RESTful APIs for data exchange between frontend and backend systems.
+        - Integrated third-party services and APIs for enhanced functionality.
+        - Collaborated with DevOps teams to automate deployment and CI/CD pipelines using Azure DevOps and Github Actions.
+        - Unit testing and integration testing to ensure code quality and reliability.
+
+      Currently working on a regulations and requirements management system using .NET Framework MVC and SQL Server.
+        - Developed a web application using .NET Framework MVC and SQL Server for managing regulations and requirements.
+        - Implemented features for document management, version control, and user access control.
+        - Collaborated with cross-functional teams to gather requirements and deliver features on time.
+        - Integrated with AI services for document analysis and processing.
+        - Implemented security measures to protect sensitive data and ensure compliance with regulations.
+        - Unit testing and integration testing to ensure code quality and reliability.
+        - Conducted SonarQube analysis to ensure code quality and maintainability and provided constructive feedback to team members.
+        - Mentored junior developers on best practices and coding standards.
+        - Participated in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives.
+        - Manage CI/CD pipelines using Azure DevOps for automated testing and deployment.
+        - Conducted performance tuning and optimization of LINQ and SQL Server databases to improve system performance.
+        - Developed and maintained technical documentation for system architecture and design.
+
+      Also currently working on a trading system as a side personal project integrating NautilusTrader with .NET 8, MetaTrader 5, and Binance via a Python client.
+      Focused on backend development, clean architecture, and DevOps automation using Azure and Github Actions.
+        - Developed high-performance backend systems using C# .NET Core and PostgresSQL.
+        - Implemented clean architecture principles and design patterns for maintainable code.
+        - Automated CI/CD pipelines with Github Actions.
+  - role: Software Engineer (.NET, Angular, PostgresSQL)
+    time: 2020- 2021
+    company: TMA Solutions, Ho Chi Minh City
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Delivered full-stack automotive applications using .NET Core, PostgresSQL, and Angular.
+      Collaborated with frontend and DevOps teams to build modern in-house applications.
+        - Maintained and optimized large PostgresSQL databases.
+        - Contributed to frontend in Angular and React.js.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: TOEIC 4 skills
     start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+    end: 2022
+    organization: IIG
+    credentialname: TOEIC 4 skills
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Speaking: 185/200, Listening: 480/495, Reading: 485/495, Writing: 170/200
+      
+  - name: Microsoft Certified: Azure Fundamentals
+    start: 2023
+    end: 2025
+    organization: Microsoft
+    credentialname: AZ-900
+    details: |
+      This certification validates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
+  - name: Microsoft Certified: Azure Developer Associate
+    start: 2023
+    end: 2025
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    credentialname: AZ-204
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      This certification validates the skills needed to design and build cloud applications and services on Microsoft Azure.
+
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  - title: NautilusTrader Integration
+    tagline: Integrated NautilusTrader with .NET backend with MT5 Python client and PostgreSQL to build a trading engine.
+  - title: Crypto Scraper
+    tagline: Develop and maintain web-scraping tools and airdrop hunting systems for crypto using Python and Selenium
+  - title: Dukascopy Historical Data Tool
+    tagline: Scheduled job that downloads and stores backtesting data via dukascopy-node for algorithmic testing.
+  - title: Personal Point-of-Sale System
+    tagline: Developed a personal point-of-sale system using C# .NET Core, React.js, and PostgresSQL for managing sales and inventory.
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: C# .NET
+    level: 98%
+    details: |
+      Proficient in building web applications using C# and .NET framework.
+      
+  - name: Design Patterns & Clean Architecture
+    level: 98%
+    details: |
+      Strong understanding of design patterns and principles of clean architecture.
+
+  - name: Unity Testing & Integration Testing
+    level: 98%
+    details: |
+      Experienced in writing unit tests and integration tests to ensure code quality and reliability. Preferred testing frameworks include NUnit and Moq.
+
+  - name: Javascript, TypeScript & jQuery
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: React.js
     level: 98%
 
   - name: Angular
+    level: 98%  
+
+  - name: Python, FastAPI, Selenium
     level: 98%
 
   - name: HTML5 & CSS
+    level: 98%
+
+  - name: SQL Server, PostgresSQL, MySQL
+    level: 98%
+
+  - name: Git, Github Actions
+    level: 98%
+
+  - name: Docker
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Azure DevOps, Azure DevOps Pipeline
+    level: 95%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: SonarQube
+    level: 95%
+
+  - name: Figma
+    level: 80%
+
+  - name: Agile, Scrum
+    level: 80%
+
+  
+
+  
+  
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Made <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">nvhvuong</a>
