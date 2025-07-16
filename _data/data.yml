@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -17,7 +17,6 @@ sidebar:
   phone: 84 0929287222
   timezone: Asia/Ho_Chi_Minh # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Vietnam
-  website: https://nvhvuong.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/v%C6%B0%C6%A1ng-nguy%E1%BB%85n-4524791aa/
   github: https://github.com/nvhvuong
   telegram: https://t.me/nvhvuong
