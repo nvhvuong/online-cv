@@ -47,7 +47,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Software Engineer with 4+ years of experience in .NET backend development, specializing in high-performance systems, trading infrastructure, and SQL Server. 
+    Software Engineer with 5 years of experience in .NET backend development, specializing in high-performance systems, trading infrastructure, and SQL Server. 
     Currently building a trading system integrating NautilusTrader and .NET 8 with MetaTrader 5 and Binance via a Python client.
     Passionate about clean architecture, backend optimization, version control, and DevOps automation with Azure and Github Actions.
     Capable of delivering features for both frontend (React.js, Angular) and backend. Vertical slice design and TDD are my strengths.
@@ -215,4 +215,4 @@ skills:
   
 
 footer: >
-  Made <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">nvhvuong</a>
+  Made <i class="fas fa-heart"></i> by <a href="mailto:nvhvuong@protonmail.com" target="_blank" rel="nofollow">nvhvuong</a>
