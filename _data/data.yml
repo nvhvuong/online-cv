@@ -62,38 +62,38 @@ experiences:
     company: Bosch Global Software Technologies Vietnam
     details: |
       **Regulations & Requirements Management System** (Current Project)
-        • Lead development of enterprise compliance platform serving 3000+ users using .NET Framework MVC and SQL Server
-        • Integrated AI-powered document analysis services, reducing manual processing time by 60%
-        • Implemented role-based access controls and comprehensive audit trails for regulatory compliance
-        • Mentored 3 junior developers, conducting code reviews and establishing team coding standards
-        • Optimized LINQ queries and database performance, improving response times by 40%
-        • Managed Azure DevOps CI/CD pipelines, achieving 99.5% deployment success rate
-        • Conducted SonarQube analysis maintaining 90%+ code quality score across all projects
+        - Lead development of enterprise compliance platform serving 3000+ users using .NET Framework MVC and SQL Server
+        - Integrated AI-powered document analysis services, reducing manual processing time by 60%
+        - Implemented role-based access controls and comprehensive audit trails for regulatory compliance
+        - Mentored 3 junior developers, conducting code reviews and establishing team coding standards
+        - Optimized LINQ queries and database performance, improving response times by 40%
+        - Managed Azure DevOps CI/CD pipelines, achieving 99.5% deployment success rate
+        - Conducted SonarQube analysis maintaining 90%+ code quality score across all projects
         
       **Healthcare Management System** (2022-2023)
-        • Built patient data management platform handling 10,000+ records using .NET Core and PostgreSQL
-        • Optimized database queries and implemented Redis caching, improving load times by 55%
-        • Collaborated with frontend team to deliver responsive Angular-based user interface
-        • Achieved 95% test coverage through comprehensive unit and integration testing using NUnit
-        • Reduced system downtime by 30% through proactive monitoring and error handling implementation
+        - Built patient data management platform handling 10,000+ records using .NET Core and PostgreSQL
+        - Optimized database queries and implemented Redis caching, improving load times by 55%
+        - Collaborated with frontend team to deliver responsive Angular-based user interface
+        - Achieved 95% test coverage through comprehensive unit and integration testing using NUnit
+        - Reduced system downtime by 30% through proactive monitoring and error handling implementation
       
       **Internal Systems Integration Platform** (2021-2022)
-        • Developed React.js/.NET Core application integrating 8 internal systems
-        • Built RESTful APIs handling 50,000+ daily transactions with 99.9% uptime
-        • Automated deployment processes, reducing release cycle from 5 days to 2 hours
-        • Integrated multiple third-party services, improving operational efficiency by 35%
+        - Developed React.js/.NET Core application integrating 8 internal systems
+        - Built RESTful APIs handling 50,000+ daily transactions with 99.9% uptime
+        - Automated deployment processes, reducing release cycle from 5 days to 2 hours
+        - Integrated multiple third-party services, improving operational efficiency by 35%
 
   - role: Software Engineer
     time: 2020 - 2021
     company: TMA Solutions, Ho Chi Minh City
     details: |
       **Automotive Applications Development**
-        • Delivered full-stack automotive applications using .NET Core, PostgreSQL, and Angular for international clients
-        • Collaborated with cross-functional teams including frontend specialists and DevOps engineers
-        • Maintained and optimized large PostgreSQL databases handling 1M+ records with complex relationships
-        • Contributed to frontend development using Angular and React.js, ensuring responsive user experiences
-        • Implemented automated testing strategies achieving 85% code coverage
-        • Participated in Agile ceremonies and maintained technical documentation
+        - Delivered full-stack automotive applications using .NET Core, PostgreSQL, and Angular for international clients
+        - Collaborated with cross-functional teams including frontend specialists and DevOps engineers
+        - Maintained and optimized large PostgreSQL databases handling 1M+ records with complex relationships
+        - Contributed to frontend development using Angular and React.js, ensuring responsive user experiences
+        - Implemented automated testing strategies achieving 85% code coverage
+        - Participated in Agile ceremonies and maintained technical documentation
 
 education:
   title: Education
