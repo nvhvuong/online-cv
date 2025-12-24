@@ -69,8 +69,14 @@ experiences:
         - Optimized LINQ queries and database performance, improving response times by 40%
         - Managed Azure DevOps CI/CD pipelines, achieving 99.5% deployment success rate
         - Conducted SonarQube analysis maintaining 90%+ code quality score across all projects
+
+      **Manufacturing Execution System Client** (WinForms | 2022)
+        - Developed a critical **WinForms** desktop application for production line operators to track inventory in real-time.
+        - Implemented **Hardware Integration** with Industrial Barcode Scanners via **RS-232 (Serial Port)** and HID interfaces.
+        - Engineered a **Fault-tolerant Offline Mode** to locally queue production data during network outages, ensuring zero data loss.
+        - Optimized UI rendering performance (GDI+) for low-spec industrial PCs, ensuring smooth operation 24/7.
         
-      **Healthcare Management System** (2022-2023)
+      **Healthcare Management System** (2023)
         - Built patient data management platform handling 10,000+ records using .NET Core and PostgreSQL
         - Optimized database queries and implemented Redis caching, improving load times by 55%
         - Collaborated with frontend team to deliver responsive Angular-based user interface
@@ -82,6 +88,7 @@ experiences:
         - Built RESTful APIs handling 50,000+ daily transactions with 99.9% uptime
         - Automated deployment processes, reducing release cycle from 5 days to 2 hours
         - Integrated multiple third-party services, improving operational efficiency by 35%
+        
 
   - role: Software Engineer
     time: 2020 - 2021
@@ -105,11 +112,6 @@ education:
       **Major:** Computer Science & Software Engineering
       **Relevant Coursework:** Data Structures & Algorithms, Database Management Systems, 
       Software Engineering Principles, Object-Oriented Programming, Web Development
-      
-      **Final Project:** AI-Powered Object Detection System using C# .NET Framework and Python
-      Developed hybrid application combining C# .NET WinForm with Python Darknet+YOLO framework for 
-      automated image labeling and object detection. Trained custom AI models for ordinary object recognition 
-      with real-time detection capabilities and integrated database management for training datasets.
 
 certifications:
   title: Certifications & Training
@@ -143,26 +145,29 @@ certifications:
 projects:
   title: Featured Projects
   assignments:
+  - title: Manufacturing Execution Client (WinForms)
+    tagline: "**Commercial Project** (2022) | Critical desktop application for production line operations. Integrated **Industrial Barcode Scanners** via Serial Port (RS-232) & HID for real-time product tracking. Developed **fault-tolerant mechanism** to queue data locally when network connectivity is unstable, ensuring 100% data integrity for the assembly line."
+
+  - title: AI Surveillance Monitor Dashboard (WinForms)
+    tagline: "**R&D Project** | High-performance desktop application for real-time video analytics. Utilized **Multi-threading** and **Task Parallel Library (TPL)** to handle multiple IP Camera streams without UI freezing. Implemented **Inter-Process Communication (IPC)** to bridge C# UI with Python YOLOv3 engine."
+
   - title: Algorithmic Trading System
-    tagline: "**Personal Project** (2024 - Present) | High-frequency trading platform integrating NautilusTrader with .NET 8, implementing real-time data feeds from MetaTrader 5 and Binance via Python microservices. Features clean architecture patterns, automated backtesting, and CI/CD with GitHub Actions."
+    tagline: "**Personal Project** (2024 - Present) | High-frequency trading platform integrating NautilusTrader with .NET 8, implementing real-time data feeds from MetaTrader 5 and Binance via Python microservices. Features clean architecture patterns and CI/CD."
     
   - title: Cryptocurrency Data Intelligence Suite
-    tagline: "**Personal Project** (2023 - Present) | Comprehensive web-scraping and airdrop hunting system using Python, Selenium, and FastAPI. Includes automated data collection, analysis, and notification systems for crypto opportunities."
+    tagline: "**Personal Project** (2023 - Present) | Comprehensive web-scraping and airdrop hunting system using Python, Selenium, and FastAPI. Includes automated data collection and analysis."
     
   - title: Dukascopy Historical Data Pipeline
-    tagline: "**Trading Tool** (2024) | Automated scheduled job system that downloads and processes historical forex data via dukascopy-node API. Built with Node.js and integrated with algorithmic trading backtesting infrastructure."
-    
-  - title: Personal Point-of-Sale System
-    tagline: "**Commercial Application** (2023) | Full-stack POS system using C# .NET Core, React.js, and PostgreSQL. Features inventory management, sales tracking, reporting, and multi-user support with role-based permissions."
-
+    tagline: "**Trading Tool** (2024) | Automated scheduled job system that downloads and processes historical forex data via dukascopy-node API."
 skills:
   title: Technical Skills & Proficiency
 
   toolset:
-  - name: C# .NET (Core/.NET 8/Framework)
+  - name: C# .NET Ecosystem
     level: 98%
     details: |
-      Expert-level proficiency in building enterprise web applications, APIs, and backend systems.
+      Expert in .NET Core/Framework for both **Web (ASP.NET)** and **Desktop (WinForms/WPF)**.
+      Proficient in **Multi-threading**, **LINQ**, **Entity Framework**, and **Hardware Integration**.
       
   - name: Clean Architecture & Design Patterns
     level: 95%
